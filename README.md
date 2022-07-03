@@ -8,7 +8,7 @@ I'm passionate about Data Science. I've been learning Machine Learning for sever
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [srnmaaroufi@gmail.com](mailto:srnmaaroufi@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm learning Machine Learning and Webscraping
 * ⚡  I love Music
 
 ### Skills

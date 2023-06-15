@@ -7,10 +7,10 @@ Advanced Technologies Engineering Student & ML enthusiast
 I'm a second-year advanced technologies engineering student, passionate about Data Science and Machine Learning.
 
 * 🔭 I’m currently working on Udacity's Data Analyst Nanodegree
-* 🧠 I'm learning Data Analysis
+* 🧠 I'm learning TinyML
 * 🌍 I'm based in Tunisia
-* ✉️ You can contact me at [srnmaaroufi@gmail.com](mailto:srnmaaroufi@gmail.com)
-* 📜 Resumé: [Sirine_Maaroufi_CV.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/9992951/Sirine_Maaroufi_CV.pdf)
+* ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:srnmaaroufi@gmail.com)
+* 📜 Resumé: [Sirine_Maaroufi_CV.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/11754914/Sirine_Maaroufi_CV.pdf)
 * ⚡ I love Music & Ping-Pong
 
 

@@ -11,7 +11,7 @@ I'm a second-year advanced technologies engineering student, passionate about Da
 * 🧠 I'm learning about TinyML, Computer Vision, Networking, Embedded Systems
 * 🌍 I'm based in Tunisia
 * ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:srnmaaroufi@gmail.com)
-* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/12414338/Cv_MAAROUFI_Sirine.pdf)
+* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/12418354/Cv_MAAROUFI_Sirine.pdf)
 * ⚡ I love Music & Ping-Pong
 
 

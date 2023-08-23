@@ -6,25 +6,51 @@ Advanced Technologies Engineering Student & ML enthusiast
 
 I'm a second-year advanced technologies engineering student, passionate about Data Science and Machine Learning.
 
-* 🔭 I’m currently working on Fire detection using TinyML and on Data Scientist Professional Track on DataCamp
-* 🧠 I'm learning TinyML
+* 🔭 I’m currently working on Wildfires detection: TinyML for Computer Vision
+* 🔭 I’m currently working on Data Scientist Professional Track on DataCamp
+* 🧠 I'm learning about TinyML, Computer Vision, Networking, Embedded Systems
 * 🌍 I'm based in Tunisia
 * ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:srnmaaroufi@gmail.com)
-* 📜 Resumé: [Cv_Maaroufi_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/12139073/Cv_Maaroufi_Sirine.pdf)
+* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/12414338/Cv_MAAROUFI_Sirine.pdf)
 * ⚡ I love Music & Ping-Pong
 
 
-### Skills
+### Languages, Libraries & tools
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  
+<a src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  width="36" height="36" alt="Anaconda"</a>
+
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg
+" width="36" height="36" alt="Arduino"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="36" height="36" alt="C"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="Pytorch"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VSCode"</a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="Github"</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="36" height="36" alt="LaTex"</a>
+
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+
+<a src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva"</a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100009229389922" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SirineMaaroufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/syrinmaaroufi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sirinemaaroufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/SirineMaaroufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sirinemaaroufi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

@@ -1,4 +1,4 @@
-Hi 👋 My name is Sirine Maàroufi
+Hi 👋 My name is Sirine MAAROUFI
 ================================
 
 Advanced Technologies Engineering Student & Data Science enthusiast

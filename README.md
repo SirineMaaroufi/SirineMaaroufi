@@ -1,19 +1,18 @@
 Hi 👋 My name is Sirine Maàroufi
 ================================
 
-Advanced Technologies Engineering Student & ML enthusiast
+Advanced Technologies Engineering Student & Data Science enthusiast
 ---------------------------------------------------------
 
-I'm a second-year advanced technologies engineering student, passionate about Data Science and Machine Learning.
+I'm a third-year advanced technologies engineering student, passionate about Data Science and Machine Learning.
 
-* 🔭 I’m currently working on Wildfires detection: TinyML for Computer Vision
 * 🔭 I’m currently working on Data Scientist Professional Track on DataCamp
-* 🧠 I'm learning about TinyML, Computer Vision, Networking, Embedded Systems
+* 🧠 I'm learning about Data Science, TinyML, Computer Vision, Networking, Embedded Systems
 * 🌍 I'm based in Tunisia
 * ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:srnmaaroufi@gmail.com)
-* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/12418354/Cv_MAAROUFI_Sirine.pdf)
-* ⚡ I love Music & Ping-Pong
+* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/13590139/Cv_MAAROUFI_Sirine.pdf)
 
+* ⚡ I love Music & Ping-Pong
 
 ### Languages, Libraries & tools
 

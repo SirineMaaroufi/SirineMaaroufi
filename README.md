@@ -1,17 +1,16 @@
 Hi 👋 My name is Sirine MAAROUFI
 ================================
 
-Advanced Technologies Engineering Student & Data Science enthusiast
+Advanced Technologies Engineer & Data Science enthusiast
 ---------------------------------------------------------
 
-I'm a third-year advanced technologies engineering student, passionate about Data Science and Machine Learning.
+I'm an advanced technologies engineer, passionate about Data Science and Machine Learning.
 
-* 🔭 I’m currently working on Data Scientist Professional Track on DataCamp
-* 🧠 I'm learning about Data Science, TinyML, Computer Vision, Networking, Embedded Systems
+* 🔭 I’m currently working on the Data Scientist Professional Track on DataCamp
+* 🧠 I'm learning about Data Science, ML, Data analysis
 * 🌍 I'm based in Tunisia
 * ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:srnmaaroufi@gmail.com)
-* 📜 Resumé: [Cv_MAAROUFI_Sirine.pdf](https://github.com/SirineMaaroufi/SirineMaaroufi/files/13590139/Cv_MAAROUFI_Sirine.pdf)
-
+* 📜 Resumé: [CV_Sirine_Maaroufi.pdf](https://github.com/user-attachments/files/16346738/CV_Sirine_Maaroufi.pdf)
 * ⚡ I love Music & Ping-Pong
 
 ### Languages, Libraries & tools

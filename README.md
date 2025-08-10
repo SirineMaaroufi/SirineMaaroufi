@@ -7,7 +7,7 @@ Advanced Technologies Engineer & Data Scientist
 I'm an advanced technologies engineer, passionate about Data Science and Machine Learning.
 
 * 🔭 I’m currently pursuing a Research Master's in Data Science
-* 🧠 I'm learning about SQL and Power BI
+* 🧠 I'm learning about LLM, RL and Agentic AI
 * 🌍 I'm based in Tunisia
 * ✉️ You can contact me at [sirine.maaroufi@enstab.ucar.tn](mailto:sirine.maaroufi@enstab.ucar.tn)
 * 📜 Resumé: [CV_Sirine_Maaroufi.pdf](https://github.com/user-attachments/files/16755082/CV_Sirine_Maaroufi.pdf)
